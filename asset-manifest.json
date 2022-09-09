@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indiegogo/static/css/main.5d66d004.css",
+    "main.js": "/indiegogo/static/js/main.c68a1767.js",
+    "static/js/787.2f02acde.chunk.js": "/indiegogo/static/js/787.2f02acde.chunk.js",
+    "index.html": "/indiegogo/index.html",
+    "main.5d66d004.css.map": "/indiegogo/static/css/main.5d66d004.css.map",
+    "main.c68a1767.js.map": "/indiegogo/static/js/main.c68a1767.js.map",
+    "787.2f02acde.chunk.js.map": "/indiegogo/static/js/787.2f02acde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d66d004.css",
+    "static/js/main.c68a1767.js"
+  ]
+}
